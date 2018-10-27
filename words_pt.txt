@@ -1,3 +1,4 @@
+
 abaixo
 acima
 ainda
@@ -38,8 +39,12 @@ menos
 mil
 nada
 nessa
+nessa
+nessas
 nessas
 nesse
+nesse
+nesses
 nesses
 oitavo
 onde
