@@ -14,6 +14,16 @@ baixo
 bem
 bom
 cada
+novo
+novos
+nova
+novas
+pequena
+pequenas
+pequeno
+pequenos
+grande
+grandes
 da
 das
 de
